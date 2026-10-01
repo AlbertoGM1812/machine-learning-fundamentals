@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.joblib
+emails.csv
+Football_Clusters2.csv
+.venv/
+.idea/
+.vscode/
+.DS_Store
